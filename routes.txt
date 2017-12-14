@@ -1,5 +1,6 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
 ROUTE_880747,LRTA,LRT 1,Baclaran - Roosevelt,Urban railway line serving 20 stations between Balaran and Roosevelt,2,http://www.lrta.gov.ph/train_operating_schedules.php,fdff00,
+ROUTE_900002,LRTA,LRT 1,Roosevelt - Baclaran,Urban railway line serving 20 stations between Balaran and Roosevelt,2,http://www.lrta.gov.ph/train_operating_schedules.php,fdff00,
 ROUTE_880801,LRTA,LRT 2,Recto - Santolan,Light rail line serving 11 stations between Recto and Santolan,2,http://www.lrta.gov.ph/train_operating_schedules.php,a520a1,
 ROUTE_900001,LRTA,LRT 2,Santolan - Recto,Light rail line serving 11 stations between Recto and Santolan,2,http://www.lrta.gov.ph/train_operating_schedules.php,a520a1,
 LTFRB_PUB1001,LTFRB,,Alabang (Starmall) Lagro,"South Luzon Expressway / Montillano St Intersection, Muntinlupa City, Manila - Quirino Highway / La Mesa Road Intersection, Calcoocan City",3,,,
