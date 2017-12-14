@@ -1715,5 +1715,6 @@ LTFRB_PUJ2616,LTFRB,,DagatDagatan Delpan via Divisoria,"President Ferdinand E. M
 LTFRB_PUJ2617,LTFRB,,Dampalit Hulo Palengke,"Kamias Rd / Kasing-Kasing Intersection, Quezon City, Manila - Sto Rosario Parish, Don Bastilio Bautista Boulevard, Malabon City",3,,,
 LTFRB_PUJ2618,LTFRB,,Dampalit Hulo Palengke,"Sto Rosario Parish, Don Bastilio Bautista Boulevard, Malabon City - Kamias Rd / Kasing-Kasing Intersection, Quezon City, Manila",3,,,
 ROUTE_880854,MRTC,MRT-3,Taft Ave - North Ave,MRT3 line from Taft Avenue to North Avenue,2,http://dotcmrt3.gov.ph/,ffd80a,
+ROUTE_900003,MRTC,MRT-3,North Ave - Taft Ave,MRT3 line from Taft Avenue to North Avenue,2,http://dotcmrt3.gov.ph/,ffd80a,
 ROUTE_880872,PNR,PNR MC,Metro Commuter,"PNT Metro South Commuter connects the cities of Manila, Pasay and Muntinlupa",2,http://www.pnr.gov.ph/metro_commuter.htm,e58e11,
 TODA_01,TODA,New Luzon TODA,Luzon Avenue Tricyle,Tricycle along Luzon Avenue Quezon City,3,,,
